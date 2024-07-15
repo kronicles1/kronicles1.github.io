@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Going on"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "kronicles1"
+name                     : "kronicles"
 description              : "Take a look around!"
 url                      : "https://kronicles1.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

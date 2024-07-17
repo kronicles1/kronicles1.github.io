@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 임베디드 추천 도서 목록
+title: [Embedded Programming] 추천 도서 목록
 categories: [Embedded Programming]
 tag: [Books, Embedded Programming]
 ---

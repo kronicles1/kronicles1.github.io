@@ -292,6 +292,8 @@ defaults:
   - scope:
       path: ""
       type: posts
+      sidebar:
+        nav: "docs"
     values:
       layout: single
       author_profile: true
@@ -307,9 +309,9 @@ sidebar:
   docs:
     - title: "Embedded Programming"
       children:
-        - title: "Introduction"
-          url: /docs/introduction/
-        - title: "Getting Started"
-          url: /docs/getting-started/
-        - title: "Advanced Topics"
-          url: /docs/advanced-topics/
+        - title: "Raspberry Pi"
+          url: /docs/Raspeberry_Pi/
+        - title: "STM32"
+          url: /docs/STM32/
+        - title: "Etc"
+          url: /docs/Etc/

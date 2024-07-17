@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: home
-permalink: /
+permalink: /home/
 author_profile: true
 sidebar_main: true
 ---

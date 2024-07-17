@@ -259,6 +259,9 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
+home_archive:
+  type: liquid
+  path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -268,12 +271,15 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
+    - home
     - categories
     - tags
   layouts:
+    home: arhcive-taxonomy
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
+    home: /
     category: /categories/:name/
     tag: /tags/:name/
 

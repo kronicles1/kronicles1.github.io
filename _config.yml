@@ -261,7 +261,7 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 home_archive:
   type: liquid
-  path: /
+  path: "/"
 category_archive:
   type: liquid
   path: /categories/

@@ -1,7 +1,7 @@
 # main links
 main:
   -title: "Home"
-    url: /home/
+    url: /
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -14,19 +14,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-docs:
-  - title: "Embedded Programming"
-    children:
-      - title: "Introduction"
-        url: /docs/introduction/
-      - title: "Getting Started"
-        url: /docs/getting-started/
-      - title: "Advanced Topics"
-        url: /docs/advanced-topics/
-
-# counts:
-#   -title: "카테고리"
-#     use: true
-#   -title: "태그"
-#     use: true

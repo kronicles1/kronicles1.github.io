@@ -13,6 +13,16 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
+docs:
+  - title: Embedded Programming
+    children: 
+      - title: Raspberry Pi
+        url: /categories/Raspebbry_Pi
+  - title: Embedded Programming
+    children:
+      - title: etc
+        url: /categories/etc
+
 counts:
   -title: "카테고리"
     use: true

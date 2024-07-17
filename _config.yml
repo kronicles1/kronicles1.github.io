@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "kronicles"
+  name             : "HoSeong Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Take a look around!"
+  bio              : "Embedded Engineer"
   location         : "South Korea"
   email            :
   links:

@@ -15,7 +15,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
+main:
   - title: "Embedded Programming"
     children:
       - title: "Introduction"

@@ -3,6 +3,8 @@ layout: single
 title: "[Embedded Programming] 추천 도서 목록"
 categories: [Embedded Programming]
 tag: [Books, Embedded Programming]
+sidebar:
+    nav: "counts"
 ---
 
 # **[임베디드 관련]**

@@ -296,7 +296,7 @@ defaults:
       layout: single
       author_profile: true
       sidebar:
-        nav: "main"
+        nav: "docs"
       read_time: true
       comments: # true
       share: true
@@ -304,7 +304,7 @@ defaults:
       show_date: true
 
 sidebar:
-  main:
+  docs:
     - title: "Embedded Programming"
       children:
         - title: "Introduction"

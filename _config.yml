@@ -296,21 +296,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "docs"
       read_time: true
       comments: # true
       share: true
       related: true
       show_date: true
-
-sidebar:
-  docs:
-    - title: "Embedded Programming"
-      children:
-        - title: "Raspberry Pi"
-          url: /docs/Raspeberry_Pi/
-        - title: "STM32"
-          url: /docs/STM32/
-        - title: "Etc"
-          url: /docs/Etc/
+      sidebar:
+        nav: "docs"

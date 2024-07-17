@@ -14,3 +14,13 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+  - title: "Embedded Programming"
+    children:
+      - title: "Introduction"
+        url: /docs/introduction/
+      - title: "Getting Started"
+        url: /docs/getting-started/
+      - title: "Advanced Topics"
+        url: /docs/advanced-topics/

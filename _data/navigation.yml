@@ -1,5 +1,7 @@
 # main links
 main:
+  -title: "Home"
+    url: /
   - title: "Category"
     url: /categories/
   - title: "Tag"
@@ -12,7 +14,7 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
+
 docs:
   - title: "Embedded Programming"
     children:

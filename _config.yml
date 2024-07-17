@@ -292,7 +292,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-      
+
     values:
       layout: single
       author_profile: true
@@ -303,6 +303,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      sidebar_main: true  
 
 sidebar:
   docs:

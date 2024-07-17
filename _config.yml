@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Going on"
+title                    : "Kronicles's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kronicles"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "HoSeong Lee"
+  name             : "Kronicles"
   avatar           : "/images/self.jpg"
   bio              : "Embedded Engineer"
   location         : "South Korea"
@@ -295,8 +295,21 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar:
+        nav: "docs"
       read_time: true
       comments: # true
       share: true
       related: true
       show_date: true
+
+sidebar:
+  docs:
+    - title: "Embedded Programming"
+      children:
+        - title: "Introduction"
+          url: /docs/introduction/
+        - title: "Getting Started"
+          url: /docs/getting-started/
+        - title: "Advanced Topics"
+          url: /docs/advanced-topics/

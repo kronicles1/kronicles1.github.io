@@ -12,16 +12,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
+  
 docs:
-  - title: Embedded Programming
-    children: 
-      - title: Raspberry Pi
-        url: /categories/Raspebbry_Pi
-  - title: Embedded Programming
+  - title: "Embedded Programming"
     children:
-      - title: etc
-        url: /categories/etc
+      - title: "Introduction"
+        url: /docs/introduction/
+      - title: "Getting Started"
+        url: /docs/getting-started/
+      - title: "Advanced Topics"
+        url: /docs/advanced-topics/
 
 # counts:
 #   -title: "카테고리"

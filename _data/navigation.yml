@@ -24,3 +24,8 @@ docs:
         url: /docs/STM32/
       - title: "Etc"
         url: /docs/Etc/
+  - title: "Economics/Stock Market/International Situation"
+    children:
+      - title: 
+        url: Economics_StockMarket_International_Situation
+  

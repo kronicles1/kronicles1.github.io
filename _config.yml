@@ -292,8 +292,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-      sidebar:
-        nav: "docs"
+      
     values:
       layout: single
       author_profile: true

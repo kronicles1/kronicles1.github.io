@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Embedded] 추천 도서 목록"
-categories: [Etc]
+categories: [Embedded, Etc]
 sidebar:
     nav: "docs"
 ---

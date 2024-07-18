@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Kronicles's Blog"
+title                    : "Kronicles's Library"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kronicles"
@@ -265,6 +265,7 @@ whitelist:
 # tag_archive:
 #   type: liquid
 #   path: /tags/
+
 Embedded_archive:
   type: liquid
   path: /Embedded/
@@ -277,6 +278,7 @@ STM32_archive:
 Etc_archive:
   type: liquid
   path: /Embedded/Etc/
+
 Economics_archive:
   type: liquid
   path: /Economics/

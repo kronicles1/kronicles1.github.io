@@ -18,17 +18,17 @@ main:
 docs:
   - title: "Embedded"
     url: /Embedded/
-    category_name: "embedded"
+    category_name: "Embedded"
     children:
       - title: "RaspberryPi"
         url: /Embedded/RaspeberryPi/
-        category_name: raspberrypi
+        category_name: RaspberryPi
       - title: "STM32"
         url: /Embedded/STM32/
-        category_name: stm32
+        category_name: STM32
       - title: "Etc"
         url: /Embedded/Etc/
-        cateogry_name: etc
+        cateogry_name: Etc
   # - title: "Economics/Stock Market/International Situation"
   #   children:
   #     - title: 

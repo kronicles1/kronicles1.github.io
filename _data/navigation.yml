@@ -2,10 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Category"
-    url: /categories/
-  - title: "Tag"
-    url: /tags/
+  # - title: "Category"
+  #   url: /categories/
+  # - title: "Tag"
+  #   url: /tags/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -22,13 +23,13 @@ docs:
     children:
       - title: "RaspberryPi"
         url: /Embedded/RaspberryPi/
-        category_name: RaspberryPi
+        category_name: "RaspberryPi"
       - title: "STM32"
         url: /Embedded/STM32/
-        category_name: STM32
+        category_name: "STM32"
       - title: "Etc"
         url: /Embedded/Etc/
-        category_name: Etc
+        category_name: "Etc"
   # - title: "Economics/Stock Market/International Situation"
   #   children:
   #     - title: 

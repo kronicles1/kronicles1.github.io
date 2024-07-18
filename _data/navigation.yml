@@ -30,8 +30,6 @@ docs:
       - title: "Etc"
         url: /Embedded/Etc/
         category_name: "Etc"
-  # - title: "Economics/Stock Market/International Situation"
-  #   children:
-  #     - title: 
-  #       url: Economics_StockMarket_International_Situation
-  
+  - title: "Economics"
+    url: /Economics/
+    category_name: "Economics"

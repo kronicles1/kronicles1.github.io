@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Embedded Programming] 추천 도서 목록"
-categories: [RaspberryPi, Etc]
+categories: [Embedded Programming]
 tag: [Books, Embedded Programming]
 ---
 

@@ -28,7 +28,7 @@ docs:
         category_name: STM32
       - title: "Etc"
         url: /Embedded/Etc/
-        cateogry_name: Etc
+        category_name: Etc
   # - title: "Economics/Stock Market/International Situation"
   #   children:
   #     - title: 

@@ -265,6 +265,18 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+Embedded_archive:
+  type: liquid
+  path: /Embedded/
+RaspberryPi_archive:
+  type: liquid
+  path: /Embedded/RaspberryPi/
+STM32_archive:
+  type: liquid
+  path: /Embedded/STM32/
+Etc_archive:
+  type: liquid
+  path: /Embedded/Etc/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:

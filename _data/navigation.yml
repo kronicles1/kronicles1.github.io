@@ -15,17 +15,22 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-# docs:
-#   - title: "Embedded Programming"
-#     children:
-#       - title: "RaspberryPi"
-#         url: /docs/Raspeberry_Pi/
-#       - title: "STM32"
-#         url: /docs/STM32/
-#       - title: "Etc"
-#         url: /docs/Etc/
-#   - title: "Economics/Stock Market/International Situation"
-#     children:
-#       - title: 
-#         url: Economics_StockMarket_International_Situation
+docs:
+  - title: "Embedded"
+    url: /Embedded/
+    category_name: "embedded"
+    children:
+      - title: "RaspberryPi"
+        url: /Embedded/RaspeberryPi/
+        category_name: raspberrypi
+      - title: "STM32"
+        url: /Embedded/STM32/
+        category_name: stm32
+      - title: "Etc"
+        url: /Embedded/Etc/
+        cateogry_name: etc
+  # - title: "Economics/Stock Market/International Situation"
+  #   children:
+  #     - title: 
+  #       url: Economics_StockMarket_International_Situation
   

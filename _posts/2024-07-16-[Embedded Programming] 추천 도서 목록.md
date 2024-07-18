@@ -1,8 +1,7 @@
 ---
 layout: single
-title: "[Embedded] 추천 도서 목록"
+title: "[Embedded] 추천 도서 목록2"
 categories: [Embedded, Etc]
-category: Etc
 tag: [Books, Embedded]
 sidebar:
     nav: "docs"

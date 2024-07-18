@@ -21,7 +21,7 @@ docs:
     category_name: "Embedded"
     children:
       - title: "RaspberryPi"
-        url: /Embedded/RaspeberryPi/
+        url: /Embedded/RaspberryPi/
         category_name: RaspberryPi
       - title: "STM32"
         url: /Embedded/STM32/

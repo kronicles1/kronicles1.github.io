@@ -261,10 +261,10 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /category/
+  path: /categories/
 tag_archive:
   type: liquid
-  path: /tag/
+  path: /tags/
 Embedded_archive:
   type: liquid
   path: /Embedded/
@@ -280,14 +280,14 @@ Etc_archive:
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
-    - category
-    - tag
+    - categories
+    - tags
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    category: /category/:name/
-    tag: /tag/:name/
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # HTML Compression

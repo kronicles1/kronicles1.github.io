@@ -268,7 +268,7 @@ whitelist:
 
 Embedded_archive:
   type: liquid
-  path: /Embedded/
+  path: /embedded/
 RaspberryPi_archive:
   type: liquid
   path: /Embedded/RaspberryPi/
@@ -277,7 +277,7 @@ STM32_archive:
   path: /Embedded/STM32/
 Etc_archive:
   type: liquid
-  path: /Embedded/Etc/
+  path: /embedded/etc/
 
 Economics_archive:
   type: liquid

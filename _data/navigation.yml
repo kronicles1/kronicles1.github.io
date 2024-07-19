@@ -18,8 +18,8 @@ main:
 
 docs:
   - title: "Embedded"
-    url: /Embedded/
-    category_name: "Embedded"
+    url: /embedded/
+    category_name: "embedded"
     children:
       - title: "RaspberryPi"
         url: /Embedded/RaspberryPi/
@@ -28,8 +28,8 @@ docs:
         url: /Embedded/STM32/
         category_name: "STM32"
       - title: "Etc"
-        url: /Embedded/Etc/
-        category_name: "Etc"
+        url: /embedded/etc/
+        category_name: "etc"
   - title: "Economics"
     url: /Economics/
     category_name: "Economics"

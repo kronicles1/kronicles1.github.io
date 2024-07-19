@@ -1,8 +1,8 @@
 ---
 title: "Embedded"
 layout: category
-permalink: /Embedded/
-taxonomy: Embedded
+permalink: /embedded/
+taxonomy: embedded
 author_profile: true
 sidebar_main: true
 sidebar:

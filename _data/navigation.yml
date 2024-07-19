@@ -22,14 +22,14 @@ docs:
     category_name: "embedded"
     children:
       - title: "RaspberryPi"
-        url: /Embedded/RaspberryPi/
-        category_name: "RaspberryPi"
+        url: /embedded/raspberrypi/
+        category_name: "raspberrypi"
       - title: "STM32"
-        url: /Embedded/STM32/
-        category_name: "STM32"
+        url: /embedded/stm32/
+        category_name: "stm32"
       - title: "Etc"
         url: /embedded/etc/
         category_name: "etc"
   - title: "Economics"
-    url: /Economics/
-    category_name: "Economics"
+    url: /economics/
+    category_name: "economics"

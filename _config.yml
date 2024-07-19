@@ -271,17 +271,17 @@ Embedded_archive:
   path: /embedded/
 RaspberryPi_archive:
   type: liquid
-  path: /Embedded/RaspberryPi/
+  path: /embedded/raspberrypi/
 STM32_archive:
   type: liquid
-  path: /Embedded/STM32/
+  path: /embedded/stm32/
 Etc_archive:
   type: liquid
   path: /embedded/etc/
 
 Economics_archive:
   type: liquid
-  path: /Economics/
+  path: /economics/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:

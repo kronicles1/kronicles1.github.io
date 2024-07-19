@@ -1,8 +1,8 @@
 ---
 title: "RaspberryPi"
 layout: category
-permalink: /Embedded/RaspberryPi/
-taxonomy: RaspberryPi
+permalink: /embedded/raspberrypi/
+taxonomy: raspberrypi
 author_profile: true
 sidebar_main: true
 sidebar:

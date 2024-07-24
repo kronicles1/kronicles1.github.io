@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 한국 원전산업의 체코 원전 수주 (2024.07.20)"
+title: "[Economics] 한국 원전산업의 체코 원전 수주 (2024.07.19)"
 categories: [economics]
 sidebar:
     nav: "docs"

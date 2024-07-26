@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Economics] 한국 조선업 (2024.07.18)"
-categories: [economics]
+categories: [economics, news]
 sidebar:
     nav: "docs"
 ---

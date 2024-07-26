@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Economics] 큐텐 정전 지연 사태 (2024.07.24)"
-categories: [economics]
+categories: [economics, news]
 sidebar:
     nav: "docs"
 ---

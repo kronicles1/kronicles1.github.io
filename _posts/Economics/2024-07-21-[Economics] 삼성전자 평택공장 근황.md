@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Economics] 삼성전자 평택공장 근황 (2024.07.21)"
-categories: [economics]
+categories: [economics, news]
 sidebar:
     nav: "docs"
 ---

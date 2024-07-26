@@ -285,7 +285,7 @@ Economics_archive:
 News_archive:
   tpye: liquid
   path: /economics/news
-Etc_archive:
+Etc2_archive:
   type: liquid
   path: /economics/etc
 

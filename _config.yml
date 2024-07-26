@@ -282,6 +282,12 @@ Etc_archive:
 Economics_archive:
   type: liquid
   path: /economics/
+News_archive:
+  tpye: liquid
+  path: /economics/news
+Etc_archive:
+  type: liquid
+  path: /economics/etc
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:

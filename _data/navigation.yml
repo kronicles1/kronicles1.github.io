@@ -33,3 +33,10 @@ docs:
   - title: "Economics"
     url: /economics/
     category_name: "economics"
+    children:
+      - title: "News"
+        url: /economics/news/
+        category_name: "news"
+      - title: "Etc"
+        url: /economics/etc/
+        category_name: "etc"

@@ -29,7 +29,7 @@ docs:
         category_name: "stm32"
       - title: "Etc"
         url: /embedded/etc/
-        category_name: "etc"
+        category_name: "etc_emb"
   - title: "Economics"
     url: /economics/
     category_name: "economics"
@@ -39,4 +39,4 @@ docs:
         category_name: "news"
       - title: "Etc"
         url: /economics/etc/
-        category_name: "etc"
+        category_name: "etc_eco"

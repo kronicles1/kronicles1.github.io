@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 미국의 바이백 중단 (2024.07.289)"
+title: "[Economics] 미국의 바이백 중단 (2024.07.29)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

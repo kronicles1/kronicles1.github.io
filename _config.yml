@@ -284,10 +284,20 @@ Economics_archive:
   path: /economics/
 News_archive:
   tpye: liquid
-  path: /economics/news
+  path: /economics/news/
 Etc_archive:
   type: liquid
-  path: /economics/etc
+  path: /economics/etc/
+
+Coding Test_archive:
+  type: liquid
+  path: /codingtest/
+Problems_archive:
+  tpye: liquid
+  path: /codingtest/problems/
+C++_archive:
+  type: liquid
+  path: /codingtest/c++/
 
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:

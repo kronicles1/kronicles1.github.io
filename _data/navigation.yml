@@ -40,3 +40,13 @@ docs:
       - title: "Etc"
         url: /economics/etc/
         category_name: "etc_eco"
+  - title: "Coding Test"
+    url: /codingtest/
+    category_name: "codingtest"
+    children:
+      - title: "Problems"
+        url: /codingtest/problems/
+        category_name: "problems"
+      - title: "C++"
+        url: /codingtest/c++/
+        category_name: "c++"

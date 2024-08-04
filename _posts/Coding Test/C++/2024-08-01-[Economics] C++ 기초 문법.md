@@ -13,4 +13,4 @@ sidebar:
 ## 동적 배열
 > c++에서는 변수의 크기를 이용해 배열을 크기를 동적으로 지정하는 것은 허용되지 않는다. <br/> 
 > std::vector의 c++ 표준 동적 배열 클래스를 통해 동적으로 변경 가능하다. <br/> 
-> <code>ex) std::vector<int> a(num);'<code> <br/> 
+> ex) std::vector< int > a(num); <br/> 

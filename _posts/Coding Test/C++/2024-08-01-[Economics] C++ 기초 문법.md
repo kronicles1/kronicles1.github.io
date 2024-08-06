@@ -11,9 +11,35 @@ sidebar:
 > precision 설정을 통해 소수점 이하의 개수를 정해야 float와 double의 차이를 알 수 있다. <br/> 
 
 ## 동적 배열
+> #include < vector >
 > c++에서는 변수의 크기를 이용해 배열을 크기를 동적으로 지정하는 것은 허용되지 않는다. <br/> 
 > std::vector의 c++ 표준 동적 배열 클래스를 통해 동적으로 변경 가능하다. <br/> 
 > ex) std::vector< int > a(num); <br/> 
+
+## 동적 배열 push_back()
+> #include < vector > <br/> 
+> 동적 배열에 원소를 집어넣는 함수이다. <br/> 
+> 배열명.pushback(변수명); <br/> 
+
+## 동적 배열 출력
+> for(auto& i:배열명){cout << i<<'\n';}으로 동적 배열 vector를 출력할 수 있다. <br/>
+
+## 배열 함수 인자 전달
+> vector를 값으로 전달하면 복사본이 전달되어서 main에는 영향이 없다. <br/>
+> 따라서 참조에 의한 전달로 하기 위해 void a(vector< int >& 배열명) 으로 전달해주자. <br/>
+
+## 동적 배열 크기 확인
+> #include < vector > <br/> 
+> 배열명.size()로 배열 크기 확인 가능하다. <br/> 
+
+## 배열 간 겹치는 원소 찾기
+> #include < algorithm > <br/> 
+> set_interserction(배열명1.begin(), 배열명1.end(), 배열명2.begin(), 배열명2.end(), back_inserter(겹치는 내용 저장할 배열)); 로 가능하다. <br/> 
+
+## 배열 내 원소 곱하기
+> #include < numeric > <br/> 
+> 배열 내 원소를 더하는 함수 accumulate에서 multiplies< int >() 옵션을 줘서 곱셈이 가능하다. <br/> 
+> accumulate(A.begin(), A.end(), 1, multiplies< int >()). <br/> 
 
 ## cin.ignore()
 > cin.ignore()를 통해 현재 입력 스트림에서 한 문자를 무시한다. <br/> 

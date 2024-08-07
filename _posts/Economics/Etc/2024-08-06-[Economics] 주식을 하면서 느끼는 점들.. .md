@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[Economics] 주식을 하면서 느끼는 점들.."
-categories: [economics, etc]
+categories: [economics, etc_eco]
 sidebar:
     nav: "docs"
 ---

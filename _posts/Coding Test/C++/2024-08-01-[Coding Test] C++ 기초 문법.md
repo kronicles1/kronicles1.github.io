@@ -50,6 +50,10 @@ sidebar:
 > #include < string > 를 통해 string 변수형 사용 가능. <br/> 
 > string 변수명 을 통해 문자열 변수 선언 후 getline(cin, 변수명)으로 문자열을 입력받을 수 있다.(공백 포함해서 읽어들임). <br/> 
 
+## getline() vs cin >> string a
+> getline은 한 줄을 공백 포함 모두 읽어들임.
+> cin으로 string을 입력받으면 공백 문자전까지 읽어들임.
+
 ## 문자열을 문자열 배열로 변환
 > #include < cstring >를 통해 strcpy를 사용 가능. <br/> 
 > 변수명.length()를 통해 문자열 길이를 입력 받는다. <br/> 

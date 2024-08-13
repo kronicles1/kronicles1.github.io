@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Coding Test] 자료구조 - 배열/리스트/벡터"
+title: "[Coding Test] 형변환"
 categories: [codingtest, c++]
 sidebar:
     nav: "docs"
@@ -28,25 +28,25 @@ sidebar:
 <br/>
 
 > *벡터 선언*
-> vector< int > A;
+> vector< int > A; <br/>
 <br/>
 
-> *벡터 삽입* 
-> A.push_back(1); - 마지막에 1 추가
-> A.insert(A.begin(), 7) - 맨 앞에 7 추가
+> *벡터 삽입*  <br/>
+> A.push_back(1); - 마지막에 1 추가 <br/>
+> A.insert(A.begin(), 7) - 맨 앞에 7 추가 <br/>
 <br/>
 
-> *벡터 값 변경*
-> A[4]=-5; - 4번 인덱스에 -5 대입
+> *벡터 값 변경* <br/>
+> A[4]=-5; - 4번 인덱스에 -5 대입 <br/>
 <br/>
 
-> *벡터 삭제* 
-> A.pop_back(); - 마지막 값 삭제
-> A.clear(); - 모든 값 삭제
-> A.erase(A.begin()+3) - 인덱스 3에 해당하는 값 삭제
+> *벡터 삭제*  <br/>
+> A.pop_back(); - 마지막 값 삭제 <br/>
+> A.clear(); - 모든 값 삭제 <br/>
+> A.erase(A.begin()+3) - 인덱스 3에 해당하는 값 삭제 <br/>
 <br/>
 
-> *정보 가져오기*
-> A.size(); - 데이터 개수
-> A.begin(); - 첫번째 데이터 위치
-> A.end(); - 마지막 데이터 다음 위치
+> *정보 가져오기* <br/>
+> A.size(); - 데이터 개수 <br/>
+> A.begin(); - 첫번째 데이터 위치 <br/>
+> A.end(); - 마지막 데이터 다음 위치 <br/>

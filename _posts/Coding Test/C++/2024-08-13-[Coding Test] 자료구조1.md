@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Coding Test] 형변환"
+title: "[Coding Test] 자료구조 - 배열/리스트/벡터"
 categories: [codingtest, c++]
 sidebar:
     nav: "docs"

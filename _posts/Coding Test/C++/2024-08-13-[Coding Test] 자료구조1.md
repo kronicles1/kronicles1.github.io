@@ -31,6 +31,10 @@ sidebar:
 > vector< int > A; <br/>
 <br/>
 
+> *이중벡터 선언* <br/>
+> vector<*vector<*int*>*> A(3, vector<*int*>(4, 0)); - 3행에 4열을 지니고 값을 0으로 초기화 시킨 2차원 벡터  <br/>
+<br/>
+
 > *벡터 삽입*  <br/>
 > A.push_back(1); - 마지막에 1 추가 <br/>
 > A.insert(A.begin(), 7) - 맨 앞에 7 추가 <br/>

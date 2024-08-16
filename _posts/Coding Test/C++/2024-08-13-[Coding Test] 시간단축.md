@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Coding Test] 시간 단축"
+title: "[Coding Test] 시간 단축에 유용한 코드"
 categories: [codingtest, c++]
 sidebar:
     nav: "docs"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Coding Test] 구간 합"
+title: "[Coding Test] 알고리즘 - 구간 합"
 categories: [codingtest, c++]
 sidebar:
     nav: "docs"

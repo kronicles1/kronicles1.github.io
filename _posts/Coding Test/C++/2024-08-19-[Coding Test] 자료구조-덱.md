@@ -32,7 +32,7 @@ sidebar:
 
 > *덱 선언* <br/>
 > #include <*deque*> <br/>
-> deque<*int*> dq; - dq변수명의 덱 선언 <br/>
+> deque<*int*> dq; - dq변수명의 int형 덱 선언 <br/>
 <br/>
 
 > *요소 삽입/삭제* <br/>

@@ -31,7 +31,7 @@ sidebar:
 <br/>
 
 > *덱 선언* <br/>
-> #include <*deque*>
+> #include <*deque*> <br/>
 > deque<*int*> dq; - dq변수명의 덱 선언 <br/>
 <br/>
 

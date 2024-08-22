@@ -64,5 +64,6 @@ sidebar:
     bool operator() (int a, b){
         return a>b;
     }
-}
-> 위의 형식으로 
+} <br/>
+> 위의 형식으로 true 혹은 false를 반납하게 해야함. <br/>
+> true를 반납하면 b가 높은 우선순위, false를 반납하면 a가 높은 우선순위를 지니게 됨. <br/>

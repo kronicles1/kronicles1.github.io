@@ -45,3 +45,24 @@ sidebar:
 > myQue.push(1); - back에서부터 데이터 1 삽입  <br/>
 > myQue.pop(); - front에 있는 데이터 삭제  <br/>
 <br/>
+
+
+## 우선순위 큐
+> 우선순위 큐는 내부적으로 힙 자료구조를 사용해 요소들을 관리하는 이진 트리 형태의 자료구조. <br/>
+> 우선순위 큐의 특징 1) 노드들의 순서는 우선순위에 의해서 정해짐. <br/>
+> 우선순위 큐의 특징 2) 기본적으로 최대 힙으로 작동해 큰 값이 우선순위 큐의 루트에 위치함. <br/>
+> 우선순위 큐의 특징 3) compare객체를 통해 정렬 기준을 새로 만들어줄 수 있음. <br/>
+
+
+> *우선 순위 큐 선언* <br/>
+> #include <*queue*>; <br/>
+> priority_queue<int, vector<*int*>, compare> myQueue; - int형 데이터를 int형 벡터에 저장하고 compare를 통해 우선순위를 매기는 myQueue 변수명의 우선순위 큐 선언 <br/>
+<br/>
+
+> *정렬 기준 설정* <br/>
+> struct compare {
+    bool operator() (int a, b){
+        return a>b;
+    }
+}
+> 위의 형식으로 

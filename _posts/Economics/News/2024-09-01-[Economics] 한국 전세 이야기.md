@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 한국 전세 이야기 (2024.09.01)"
+title: "[Economics] 한국 전세 이야기 1 (2024.09.01)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

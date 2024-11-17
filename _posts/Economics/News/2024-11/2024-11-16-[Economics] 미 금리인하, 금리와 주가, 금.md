@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 미 금리인하, 금리와 주가, 금 (2024.11.17)"
+title: "[Economics] 미 금리인하, 금리와 주가, 금 (2024.11.16)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

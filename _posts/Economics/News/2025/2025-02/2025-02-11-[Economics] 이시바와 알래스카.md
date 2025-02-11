@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 이시바와 알래스카카 (2025.02.11)"
+title: "[Economics] 이시바와 알래스카 (2025.02.11)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

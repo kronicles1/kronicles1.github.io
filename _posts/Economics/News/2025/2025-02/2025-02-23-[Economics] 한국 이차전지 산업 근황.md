@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 한국 이차전지 산업 (2025.02.23)"
+title: "[Economics] 한국 이차전지 산업 근황 (2025.02.23)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

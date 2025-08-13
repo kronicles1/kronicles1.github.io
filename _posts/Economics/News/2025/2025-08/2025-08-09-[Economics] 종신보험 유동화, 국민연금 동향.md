@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 종신보험 유동화, 국민연금 (2025.08.09)"
+title: "[Economics] 종신보험 유동화, 국민연금 동향 (2025.08.09)"
 categories: [economics, news]
 sidebar:
     nav: "docs"
@@ -32,6 +32,7 @@ sidebar:
 1. 줄어든 것은 UNH, 일라이릴리 순이며 귀신 같이 폭락을 피함.
 1. 최근 동향은 엔비디아를 팔고 있으며 애플과 아마존을 사고 있음.
 1. 2025년 현재까지 성적을 보면 선수가 맞긴 하나봄.
+
 
 
 <br/>

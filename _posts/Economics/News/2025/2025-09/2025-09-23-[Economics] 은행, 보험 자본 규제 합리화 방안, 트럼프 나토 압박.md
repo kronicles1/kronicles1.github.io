@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 은행, 보험 자본 규제 합리화 방안, 트럼프 나토 압박  (2025.09.23)"
+title: "[Economics] 은행, 보험 자본 규제 합리화 방안, 트럼프 나토 압박 (2025.09.23)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

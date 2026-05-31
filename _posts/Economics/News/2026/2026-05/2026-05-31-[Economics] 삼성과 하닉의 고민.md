@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 삼성과 하닉의 고민 (2026.05.31)
+title: "[Economics] 삼성과 하닉의 고민 (2026.05.31) "
 categories: [economics, news]
 sidebar:
     nav: "docs"

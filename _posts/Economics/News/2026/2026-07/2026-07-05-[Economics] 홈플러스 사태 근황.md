@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] BOJ의 반격 (2026.07.05)"
+title: "[Economics] 홈플러스 사태 근황 (2026.07.05)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 미국채 입찰 부진 (2026.11.18)"
+title: "[Economics] 미국채 입찰 부진 (2026.11.17)"
 categories: [economics, news]
 sidebar:
     nav: "docs"

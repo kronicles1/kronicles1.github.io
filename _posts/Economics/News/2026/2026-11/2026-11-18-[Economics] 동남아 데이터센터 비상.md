@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[Economics] 동남아 데이터센터 비상(2026.11.18)"
+title: "[Economics] 동남아 데이터센터 비상 (2026.11.18)"
 categories: [economics, news]
 sidebar:
     nav: "docs"
